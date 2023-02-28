@@ -1,0 +1,50 @@
+body {
+  background-image: url(https://artprojectsforkids.org/wp-content/uploads/2021/08/Draw-a-School.jpg) !important;
+  opacity: 0.9 !important;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 240px !important;
+  text-align: center;
+  margin-left: 660px;
+}
+span {
+  text-align: center;
+  color: blue;
+}
+h1 {
+  text-align: center;
+  color: black;
+  text-shadow: 2px 2px blue !important;
+}
+.list-group-flush {
+  margin-top: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+.card {
+  display: inline-table;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 10px;
+  align-items: row;
+  border-style: dotted;
+  border-color: darkviolet;
+  object-position: center;
+}
+.container {
+  background-color: azure;
+  border-style: solid;
+}
+span {
+  font-size: large;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.list {
+  display: flex;
+  flex-wrap: wrap;
+}

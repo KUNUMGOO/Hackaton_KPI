@@ -1,0 +1,28 @@
+{
+  "contactBook": [
+    {
+      "name": "1",
+      "surname": "2",
+      "phone": "3",
+      "weekly": "4",
+      "monthly": "5",
+      "id": 1
+    },
+    {
+      "name": "11",
+      "surname": "11",
+      "phone": "11",
+      "weekly": "11",
+      "monthly": "11",
+      "id": 2
+    },
+    {
+      "name": "11e",
+      "surname": "1e",
+      "phone": "11e",
+      "weekly": "11e",
+      "monthly": "11e",
+      "id": 3
+    }
+  ]
+}
