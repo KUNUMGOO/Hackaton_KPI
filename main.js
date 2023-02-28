@@ -4,7 +4,7 @@ let phone = document.querySelector(".phone");
 let weekly = document.querySelector(".weekly");
 let monthly = document.querySelector(".monthly");
 let btnCreate = document.querySelector(".btn-create");
-
+// saltanat sent js document
 let list = document.querySelector(".list");
 
 const API = "http://localhost:8000/contactBook";
